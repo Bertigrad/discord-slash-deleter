@@ -39,10 +39,8 @@ $ npm install
 
 Create (or edit) a file named `.env` in the project root so it contains only:
 
-```env
 TOKEN=DISCORD_BOT_TOKEN
 ````
-
 ---
 
 ## Usage
