@@ -1,0 +1,25 @@
+{
+  "name": "discord-slash-deleter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bertigrad/discord-slash-deleter.git"
+  },
+  "author": "Bertigrad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bertigrad/discord-slash-deleter/issues"
+  },
+  "homepage": "https://github.com/Bertigrad/discord-slash-deleter#readme",
+  "description": "",
+  "dependencies": {
+    "cli-color": "^2.0.4",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
